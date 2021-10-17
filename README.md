@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamarawin
-- 👀 I’m interested in web development and cybersecurity projects
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in Web development and Cybersecurity projects
+- 🌱 I’m currently learning Cybersecurity and completing online courses on web development and python
 - 💞️ I’m looking to collaborate on web dev/cybersecurity/python/C# projects
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/arawinkumaar-selvakkumar/
 
